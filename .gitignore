@@ -21,7 +21,9 @@
 *.zip
 
 # Logs and databases #
-######################
+########
+*.env
+##############
 *.log
 *.sql
 *.sqlite
